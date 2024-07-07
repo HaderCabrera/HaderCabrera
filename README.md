@@ -33,11 +33,12 @@
         <img src = "./img/js.png" tittle = "CSS" alt = "CSS" width = "40" height = "40">
     </div>
 </div>
+
 ---
 
 ### My Stacks:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HaderCabrera&theme=onedark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HaderCabrera&theme=onedark)](https://github.com/HaderCabrera)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaderCabrera&layout=donut)
 
