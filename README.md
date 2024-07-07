@@ -14,16 +14,31 @@
     <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 </div>
 
+
 ---
+
 ### About me:
 
 - 🌱 I’m currently learning java and three.js
 - 💬 Ask me about python, javaScript, bulma, mySQL.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/hadercabrera)
 
+<div align = "left"> 
+    <h3>Languages and Tools</h3>
+    <div>
+        <img src = "./img/python.png" tittle = "PYTHON" alt = "PYTHON" width = "40" height = "40">
+        <img src = "./img/java.png" tittle = "JAVA" alt = "JAVA" width = "40" height = "40">
+        <img src = "./img/html.png" tittle = "HTML" alt = "HTML" width = "40" height = "40">
+        <img src = "./img/css.png" tittle = "CSS" alt = "CSS" width = "40" height = "40">
+        <img src = "./img/js.png" tittle = "CSS" alt = "CSS" width = "40" height = "40">
+    </div>
+</div>
+---
 
+### My Stacks:
 
-![:alarm_clock:](SDS)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=HaderCabrera&theme=onedark)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaderCabrera&layout=donut)
 
 
