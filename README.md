@@ -1,5 +1,4 @@
 
-
 <div id = "header" align ="center">
     <img src= "./img/baner.jpg">
     <h1>Hi there 👋, I'm Hader Cabrera.</h1>
@@ -13,7 +12,6 @@
     <a href = "mailto:hader.cabrera96@gmail.com">
     <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
 </div>
-
 
 ---
 
