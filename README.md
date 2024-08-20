@@ -1,6 +1,6 @@
 
 <div id = "header" align ="center">
-    <img src= "./img/baner.jpg">
+    <img src= "./img/bannerHader.png">
     <h1>Hi there 👋, I'm Hader Cabrera.</h1>
     <h3>Driven by a passion for backend development, I'm currently advancing my skills at Campuslands in software development. With a foundation in mechatronics engineering, I bring a unique perspective to designing and implementing efficient and scalable software solutions.</h3>
 </div>
